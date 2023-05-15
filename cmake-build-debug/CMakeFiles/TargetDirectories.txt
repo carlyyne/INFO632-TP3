@@ -1,0 +1,3 @@
+/Users/carlynebarrachin/Documents/Polytech/FI3/S6/INFO632-SYST/TP3-Producteur:Consommateur/cmake-build-debug/CMakeFiles/TP3_Producteur_Consommateur.dir
+/Users/carlynebarrachin/Documents/Polytech/FI3/S6/INFO632-SYST/TP3-Producteur:Consommateur/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carlynebarrachin/Documents/Polytech/FI3/S6/INFO632-SYST/TP3-Producteur:Consommateur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
